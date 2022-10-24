@@ -1,12 +1,35 @@
 [
   {
+    "id": 6231988,
+    "slug": "weghorst-maakt-snelste-doelpunt-van-dit-seizoen-in-turkse-competitie",
+    "type": "article",
+    "title": "Weghorst maakt snelste doelpunt van dit seizoen in Turkse competitie",
+    "subtitle": null,
+    "published_at": "2022-10-24T19:47:02+02:00",
+    "updated_at": "2022-10-24T20:08:57+02:00",
+    "media_id": "zasxypgadppy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6231988/weghorst-maakt-snelste-doelpunt-van-dit-seizoen-in-turkse-competitie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6231987,
     "slug": "nederlandse-tennissers-ontlopen-kyrgios-bij-knock-outfase-davis-cup-finals",
     "type": "article",
     "title": "Nederlandse tennissers ontlopen Kyrgios bij knock-outfase Davis Cup Finals",
     "subtitle": null,
     "published_at": "2022-10-24T19:38:14+02:00",
-    "updated_at": "2022-10-24T19:38:15+02:00",
+    "updated_at": "2022-10-24T19:54:34+02:00",
     "media_id": "fkzx3yoaq71z",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Kermis Houten eerder dicht en veiligheidsrisicogebied na onrust door jongeren",
     "subtitle": null,
     "published_at": "2022-10-24T19:35:41+02:00",
-    "updated_at": "2022-10-24T19:35:42+02:00",
+    "updated_at": "2022-10-24T19:52:19+02:00",
     "media_id": "iauxcbqah2v0",
     "duration": null,
     "canonical_section": {
@@ -70,12 +93,12 @@
   },
   {
     "id": 6231968,
-    "slug": "september-loser-sunak-lacht-in-oktober-alsnog-als-eerste-britse-premier-van-kleur",
+    "slug": "multimiljonair-rishi-sunak-na-nederlaag-nu-toch-eerste-britse-premier-van-kleur",
     "type": "article",
-    "title": "'September-loser' Sunak lacht in oktober alsnog als eerste Britse premier van kleur",
+    "title": "Multimiljonair Rishi Sunak na nederlaag nu toch eerste Britse premier van kleur",
     "subtitle": null,
     "published_at": "2022-10-24T19:07:17+02:00",
-    "updated_at": "2022-10-24T19:07:20+02:00",
+    "updated_at": "2022-10-24T20:00:10+02:00",
     "media_id": "w5ixpmza7j01",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6231968/september-loser-sunak-lacht-in-oktober-alsnog-als-eerste-britse-premier-van-kleur.html",
+    "url": "/buitenland/6231968/multimiljonair-rishi-sunak-na-nederlaag-nu-toch-eerste-britse-premier-van-kleur.html",
     "open_new_window": false,
     "partner": null
   },
@@ -121,7 +144,7 @@
     "title": "Weer storing in Amsterdamse metro, alle rijtuigen staan stil",
     "subtitle": null,
     "published_at": "2022-10-24T18:33:29+02:00",
-    "updated_at": "2022-10-24T18:35:18+02:00",
+    "updated_at": "2022-10-24T20:01:05+02:00",
     "media_id": "eiixareaag6x",
     "duration": null,
     "canonical_section": {
@@ -190,7 +213,7 @@
     "title": "Aantal studies overboord: zeespiegel stijgt deze eeuw maximaal 160 centimeter",
     "subtitle": null,
     "published_at": "2022-10-24T17:25:04+02:00",
-    "updated_at": "2022-10-24T18:28:45+02:00",
+    "updated_at": "2022-10-24T19:59:02+02:00",
     "media_id": "sgqxm3racxap",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/reviews/6231901/getest-de-hogere-prijs-valt-op-bij-de-nieuwe-ipad.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6231800,
-    "slug": "rishi-sunak-volgt-liz-truss-op-als-nieuwe-britse-premier",
-    "type": "article",
-    "title": "Rishi Sunak volgt Liz Truss op als nieuwe Britse premier",
-    "subtitle": null,
-    "published_at": "2022-10-24T15:01:36+02:00",
-    "updated_at": "2022-10-24T17:33:13+02:00",
-    "media_id": "5igxlq4aevw7",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6231800/rishi-sunak-volgt-liz-truss-op-als-nieuwe-britse-premier.html",
     "open_new_window": false,
     "partner": null
   }
