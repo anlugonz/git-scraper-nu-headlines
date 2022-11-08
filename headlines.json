@@ -1,5 +1,28 @@
 [
   {
+    "id": 6234718,
+    "slug": "enorme-vlammenzee-in-hoge-woontoren-in-dubai",
+    "type": "video",
+    "title": "Enorme vlammenzee in hoge woontoren in Dubai",
+    "subtitle": "Video",
+    "published_at": "2022-11-08T10:28:46+01:00",
+    "updated_at": "2022-11-08T10:28:47+01:00",
+    "media_id": "e8gxmsda1fpk",
+    "duration": "0:46",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6234718/enorme-vlammenzee-in-hoge-woontoren-in-dubai.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6234707,
     "slug": "voormalig-fifa-baas-blatter-keuze-voor-wk-in-qatar-was-een-vergissing",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/spanningen-oekraine/6234664/vs-onderhandelt-in-het-geheim-met-rusland-kyiv-ontvangt-luchtafweergeschut.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6234663,
-    "slug": "uitvaart-migos-rapper-takeoff-vindt-vrijdag-plaats-in-stadion-in-atlanta",
-    "type": "article",
-    "title": "Uitvaart Migos-rapper Takeoff vindt vrijdag plaats in stadion in Atlanta",
-    "subtitle": null,
-    "published_at": "2022-11-08T06:28:44+01:00",
-    "updated_at": "2022-11-08T08:27:58+01:00",
-    "media_id": "5nvxv9xa7wch",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6234663/uitvaart-migos-rapper-takeoff-vindt-vrijdag-plaats-in-stadion-in-atlanta.html",
     "open_new_window": false,
     "partner": null
   }
