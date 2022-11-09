@@ -1,5 +1,28 @@
 [
   {
+    "id": 6235064,
+    "slug": "rusland-trekt-troepen-terug-uit-oekraiense-stad-kherson",
+    "type": "article",
+    "title": "Rusland trekt troepen terug uit Oekraïense stad Kherson",
+    "subtitle": null,
+    "published_at": "2022-11-09T16:30:24+01:00",
+    "updated_at": "2022-11-09T16:35:52+01:00",
+    "media_id": "isuxytxafmez",
+    "duration": null,
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6235064/rusland-trekt-troepen-terug-uit-oekraiense-stad-kherson.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6235048,
     "slug": "russische-bestuurder-van-bezette-oekraiense-regio-kherson-omgekomen",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wk-voetbal/6234978/kroatie-reist-met-modric-en-vijf-andere-wk-finalisten-in-selectie-af-naar-qatar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6234982,
-    "slug": "deze-schedel-van-een-t-rex-moet-tientallen-miljoenen-opleveren",
-    "type": "video",
-    "title": "Deze schedel van een T. rex moet tientallen miljoenen opleveren",
-    "subtitle": "Video",
-    "published_at": "2022-11-09T12:23:29+01:00",
-    "updated_at": "2022-11-09T12:27:24+01:00",
-    "media_id": "6gjx0ekazikk",
-    "duration": "0:38",
-    "canonical_section": {
-      "id": 1772536,
-      "slug": "dieren",
-      "type": "default",
-      "name": "Dieren",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/dieren/6234982/deze-schedel-van-een-t-rex-moet-tientallen-miljoenen-opleveren.html",
     "open_new_window": false,
     "partner": null
   }
