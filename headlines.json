@@ -1,12 +1,35 @@
 [
   {
+    "id": 6238371,
+    "slug": "dit-vinden-jullie-van-online-bereikbare-huisartsen",
+    "type": "article",
+    "title": "Dit vinden jullie van online bereikbare huisartsen",
+    "subtitle": null,
+    "published_at": "2022-11-25T12:26:54+01:00",
+    "updated_at": "2022-11-25T12:26:55+01:00",
+    "media_id": "wpxx6mmazlra",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6238371/dit-vinden-jullie-van-online-bereikbare-huisartsen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6238389,
     "slug": "brandweer-test-speciale-drone-voor-flatbranden-in-shanghai",
     "type": "video",
     "title": "Brandweer test speciale drone voor flatbranden in Shanghai",
     "subtitle": "Video",
     "published_at": "2022-11-25T12:02:50+01:00",
-    "updated_at": "2022-11-25T12:02:51+01:00",
+    "updated_at": "2022-11-25T12:17:58+01:00",
     "media_id": "l18x24wa3r6u",
     "duration": "0:28",
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/media/6238305/dolf-jansen-presenteert-comedy-central-roast-famke-louise.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6238306,
-    "slug": "doelpunt-iran-hangt-in-de-lucht-aftellen-naar-oranje",
-    "type": "article",
-    "title": "Doelpunt Iran hangt in de lucht, aftellen naar Oranje",
-    "subtitle": "Liveblog WK",
-    "published_at": "2022-11-25T08:05:54+01:00",
-    "updated_at": "2022-11-25T12:16:18+01:00",
-    "media_id": "ldwx2z4ay2g4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772307,
-      "slug": "wk-voetbal",
-      "type": "files",
-      "name": "WK voetbal",
-      "style": "nusport",
-      "media_id": "m1mxoqoan7eu",
-      "partner": null
-    },
-    "url": "/wk-voetbal/6238306/doelpunt-iran-hangt-in-de-lucht-aftellen-naar-oranje.html",
     "open_new_window": false,
     "partner": null
   }
