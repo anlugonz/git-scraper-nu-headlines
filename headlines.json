@@ -1,28 +1,5 @@
 [
   {
-    "id": 6238163,
-    "slug": "het-wk-programma-van-morgen-duitsland-aast-in-duel-met-spanje-op-revanche",
-    "type": "article",
-    "title": "Het WK-programma van morgen: Duitsland aast in duel met Spanje op revanche",
-    "subtitle": null,
-    "published_at": "2022-11-26T22:07:32+01:00",
-    "updated_at": "2022-11-26T22:07:33+01:00",
-    "media_id": "z99xsr1avc9c",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772307,
-      "slug": "wk-voetbal",
-      "type": "files",
-      "name": "WK voetbal",
-      "style": "nusport",
-      "media_id": "m1mxoqoan7eu",
-      "partner": null
-    },
-    "url": "/wk-voetbal/6238163/het-wk-programma-van-morgen-duitsland-aast-in-duel-met-spanje-op-revanche.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
     "id": 6238659,
     "slug": "man-neergestoken-in-amsterdam-ook-gewonde-bij-steekpartij-in-den-haag",
     "type": "article",
@@ -52,7 +29,7 @@
     "title": "Messi leidt Argentinië naar winst op Mexico en houdt WK-droom levend",
     "subtitle": null,
     "published_at": "2022-11-26T21:57:43+01:00",
-    "updated_at": "2022-11-26T22:08:33+01:00",
+    "updated_at": "2022-11-26T22:04:38+01:00",
     "media_id": "hdexqynaxjf1",
     "duration": null,
     "canonical_section": {
@@ -456,6 +433,29 @@
       "partner": null
     },
     "url": "/wk-voetbal/6238639/polen-brengt-saoedi-arabie-terug-op-aarde-met-dank-aan-primeur-lewandowski.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6238638,
+    "slug": "recordaantal-online-black-friday-aankopen-in-nederland-ondanks-inflatie",
+    "type": "article",
+    "title": "Recordaantal online Black Friday-aankopen in Nederland ondanks inflatie",
+    "subtitle": null,
+    "published_at": "2022-11-26T15:45:47+01:00",
+    "updated_at": "2022-11-26T15:59:18+01:00",
+    "media_id": "umqx3twaz9vx",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6238638/recordaantal-online-black-friday-aankopen-in-nederland-ondanks-inflatie.html",
     "open_new_window": false,
     "partner": null
   }
