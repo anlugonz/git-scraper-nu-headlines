@@ -1,12 +1,35 @@
 [
   {
+    "id": 6239207,
+    "slug": "frappart-fluit-costa-rica-duitsland-en-wordt-eerste-vrouwelijke-arbiter-ooit-op-wk",
+    "type": "article",
+    "title": "Frappart fluit Costa Rica-Duitsland en wordt eerste vrouwelijke arbiter ooit op WK",
+    "subtitle": null,
+    "published_at": "2022-11-29T20:17:15+01:00",
+    "updated_at": "2022-11-29T20:17:16+01:00",
+    "media_id": "jo8xcnial9pv",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6239207/frappart-fluit-costa-rica-duitsland-en-wordt-eerste-vrouwelijke-arbiter-ooit-op-wk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6239220,
     "slug": "senegalezen-dragen-achtstefinaleplek-wk-op-aan-overleden-papa-bouba-diop",
     "type": "article",
     "title": "Senegalezen dragen achtstefinaleplek WK op aan overleden Papa Bouba Diop",
     "subtitle": null,
     "published_at": "2022-11-29T20:15:49+01:00",
-    "updated_at": "2022-11-29T20:15:50+01:00",
+    "updated_at": "2022-11-29T20:18:32+01:00",
     "media_id": "lfbx881au0zr",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/klimaat/6239178/kabinet-wil-nieuwe-kerncentrales-in-borssele-bouwen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6239115,
-    "slug": "auteur-arthur-japin-krijgt-lintje-voor-25-jaar-schrijverschap",
-    "type": "article",
-    "title": "Auteur Arthur Japin krijgt lintje voor 25 jaar schrijverschap",
-    "subtitle": null,
-    "published_at": "2022-11-29T17:10:23+01:00",
-    "updated_at": "2022-11-29T17:10:24+01:00",
-    "media_id": "93fxvgtafyah",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772075,
-      "slug": "cultuur-overig",
-      "type": "default",
-      "name": "Boek & Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/cultuur-overig/6239115/auteur-arthur-japin-krijgt-lintje-voor-25-jaar-schrijverschap.html",
     "open_new_window": false,
     "partner": null
   }
