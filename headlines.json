@@ -1,5 +1,28 @@
 [
   {
+    "id": 6243246,
+    "slug": "celstraffen-van-vijf-tot-dertig-jaar-geeist-voor-moord-op-nijmeegse-klusjesman",
+    "type": "article",
+    "title": "Celstraffen van vijf tot dertig jaar geëist voor moord op Nijmeegse klusjesman",
+    "subtitle": null,
+    "published_at": "2022-12-20T14:30:17+01:00",
+    "updated_at": "2022-12-20T14:30:18+01:00",
+    "media_id": "kiix2llaq5qq",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6243246/celstraffen-van-vijf-tot-dertig-jaar-geeist-voor-moord-op-nijmeegse-klusjesman.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6243240,
     "slug": "vier-jaar-cel-voor-doodschieten-oud-profvoetballer-hoefdraad",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6243195/wereldkampioen-argentinie-viert-feest-in-buenos-aires.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6235179,
-    "slug": "ook-hof-vindt-asielopvang-ondermaats-maar-dat-is-niet-op-korte-termijn-op-te-lossen",
-    "type": "article",
-    "title": "Ook hof vindt asielopvang ondermaats, maar dat is niet op korte termijn op te lossen",
-    "subtitle": null,
-    "published_at": "2022-12-20T11:12:10+01:00",
-    "updated_at": "2022-12-20T14:22:27+01:00",
-    "media_id": "hksx26fagd59",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6235179/ook-hof-vindt-asielopvang-ondermaats-maar-dat-is-niet-op-korte-termijn-op-te-lossen.html",
     "open_new_window": false,
     "partner": null
   }
