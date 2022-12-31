@@ -1,5 +1,28 @@
 [
   {
+    "id": 6245089,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2022-12-31T05:33:46+01:00",
+    "updated_at": "2022-12-31T05:33:47+01:00",
+    "media_id": "5orxtf5awygy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6245089/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6244731,
     "slug": "2022-het-jaar-dat-big-tech-aan-het-wankelen-bracht",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6245067/qatar-neemt-afscheid-van-bondscoach-sanchez-na-debacle-op-wk-in-eigen-land.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245051,
-    "slug": "ronaldo-staat-op-het-punt-om-megacontract-bij-club-in-saoedi-arabie-te-tekenen",
-    "type": "article",
-    "title": "Ronaldo staat op het punt om megacontract bij club in Saoedi-Arabië te tekenen",
-    "subtitle": null,
-    "published_at": "2022-12-30T20:50:02+01:00",
-    "updated_at": "2022-12-30T21:14:33+01:00",
-    "media_id": "yjdxwspau635",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6245051/ronaldo-staat-op-het-punt-om-megacontract-bij-club-in-saoedi-arabie-te-tekenen.html",
     "open_new_window": false,
     "partner": null
   }
